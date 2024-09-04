@@ -4,7 +4,7 @@ description: ""
 #featured_image: "/images/band_aelter.jpg"
 tags: []
 title: "World-Tour"
-disable_share: false
+#disable_share: false
 ---
 
 

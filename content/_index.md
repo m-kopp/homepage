@@ -7,7 +7,8 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/x1.jpg'
 ---
-Schoppenrock auf dem Herzen von Hessen
+
+Top-News: Wie sind im Studio und machen Aufnahmen für euch !!!
 
 
 
