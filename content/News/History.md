@@ -4,6 +4,7 @@ description: "Mohrnkopp-Historie"
 featured_image: ""
 tags: []
 title: "Mohrnkopp-Historie"
+weight: 100
 ---
 
 Es fing alles damit an, das ein paar Jungs aus der Realschule im Buchenbusch in Neu-Isenburg bei einem Schulfest die Band Jesus on the Rocks (damals mit Stefan Nachtsheim, Heido Heidenreich, Manfred “Barny Baller“ Faust und Mui Müller) sahen und hörten.

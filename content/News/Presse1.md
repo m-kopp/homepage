@@ -4,7 +4,7 @@ description: "Aus der Presse"
 featured_image: "/images/band_aelter.jpg"
 tags: []
 title: "Treffpunkt"
-#disable_share: true
+weight: 50
 ---
 
 Neu-Isenburg - Henni Nachtsheim steht hinten im Raum in der Nähe des Mischpultes und wippt mit dem Fuß. In der Musikkneipe „Treffpunkt“ in der Bahnhofstraße bearbeiten Christian Remler (Schlagzeug), Bernd Petzold (Gesang und Gitarre), Peter Henke (Bass und Gesang), Robert Chwoika (Gitarre, Keyboards und Gesang) sowie Peter Gerhard (Gitarre und Gesang) ihre Instrumente.

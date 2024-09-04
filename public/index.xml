@@ -9,18 +9,18 @@
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>World-Tour</title>
+      <link>http://localhost:1313/news/world-tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/world-tour/</guid>
+      <description> 1.Mai 1960 - Treffpunkt 1.Mai 1961 - Treffpunkt 1.Mai 1962 - Treffpunkt &amp;hellip; </description>
+    </item>
+    <item>
       <title>Treffpunkt</title>
       <link>http://localhost:1313/news/presse1/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       <guid>http://localhost:1313/news/presse1/</guid>
       <description>Neu-Isenburg - Henni Nachtsheim steht hinten im Raum in der Nähe des Mischpultes und wippt mit dem Fuß. In der Musikkneipe „Treffpunkt“ in der Bahnhofstraße bearbeiten Christian Remler (Schlagzeug), Bernd Petzold (Gesang und Gitarre), Peter Henke (Bass und Gesang), Robert Chwoika (Gitarre, Keyboards und Gesang) sowie Peter Gerhard (Gitarre und Gesang) ihre Instrumente.&#xA;Sie bilden die „Kult“-Band „Mohrnkopp“, die nach 34 Jahren Schobberock ihr Abschiedskonzert geben.&#xA;„Solange es ‚Mohrnkopp‘ gibt und Manfred Ferger den ‚Treffpunkt‘ hat, bestreiten wir einmal im Jahr unser Konzert“, lautete vor mehr als zwei Jahrzehnten das Credo der Gruppe, das sie auch 2009 wieder wahr werden ließ.</description>
-    </item>
-    <item>
-      <title>World-Tour</title>
-      <link>http://localhost:1313/news/world-tour/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      <guid>http://localhost:1313/news/world-tour/</guid>
-      <description> 1.Mai 1960 - Treffpunkt 1.Mai 1961 - Treffpunkt 1.Mai 1962 - Treffpunkt &amp;hellip; </description>
     </item>
     <item>
       <title>Mohrnkopp-Historie</title>

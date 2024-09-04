@@ -1,10 +1,9 @@
 ---
-date: 2017-04-14T11:25:05-04:00
 description: ""
 #featured_image: "/images/band_aelter.jpg"
 tags: []
 title: "World-Tour"
-#disable_share: false
+weight: 10
 ---
 
 
