@@ -1,5 +1,5 @@
 ---
-title: "Die Band"
+title: "Band"
 description: ""
 featured_image: '/images/keys.webp'
 menu:
