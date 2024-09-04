@@ -1,7 +1,7 @@
 ---
 title: "Die Band"
 description: ""
-featured_image: '/images/x2.jpg'
+featured_image: '/images/keys.webp'
 menu:
   main:
     Weight: 10
