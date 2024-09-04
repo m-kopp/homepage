@@ -3,6 +3,7 @@ theme = 'ananke'
 title = "M#Kopp"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "de"
+defaultContentLanguage = "de"
 resourceDir = "../resources"
 
 SectionPagesMenu = "main"
